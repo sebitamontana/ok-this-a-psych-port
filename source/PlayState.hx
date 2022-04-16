@@ -74,8 +74,8 @@ class PlayState extends MusicBeatState
 		['Meh', 0.69], //From 60% to 68%
 		['Nice', 0.7], //69%
 		['Good', 0.8], //From 70% to 79%
-		['Great', 0.9], //From 80% to 89%
-		['Sick!', 1], //From 90% to 99%
+		['Amazing!', 0.9], //From 80% to 89%
+		['Holy geo!', 1], //From 90% to 99%
 		['Perfect!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	public var modchartTweens:Map<String, FlxTween> = new Map<String, FlxTween>();
